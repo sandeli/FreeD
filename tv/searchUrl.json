@@ -42,6 +42,14 @@
     },
     {
       "id": 1,
+      "name": "爱看美剧",
+      "url": "https://www.akmeiju.com/api.php/provide/vod/at/xml/",
+      "cate": "魔幻/科幻,21&&惊悚/恐怖,22&&都市/喜剧,33&&犯罪/动作,24&选秀/综艺,33&&韩剧/日剧,37&&动漫/卡通,4",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
       "name": "酷播云",
       "url": "http://api.kbzyapi.com/inc/s_api_kakam3u8.php",
       "cate": "电影,1&&连续剧,2&&综艺,3&&国产剧,12&&美剧,15&&台湾剧,13&&福利,14&&记录片,18&&韩剧,19&&海外剧,24&&日本剧,20",
