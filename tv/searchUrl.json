@@ -34,6 +34,14 @@
     },
     {
       "id": 1,
+      "name": "独播云资源",
+      "url": "http://api.dbyunzy.com/api.php/provide/vod/at/xml/",
+      "cate": "电影,20&&连续剧,32&&综艺,36&&动漫,41&&韩剧,59&&欧美剧,35&&港剧,33&&日剧,34&&海外剧,57&&MMA综合格斗,67",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
       "name": "星空云",
       "url": "http://www.xkzy.cc/api.php/provide/vod/at/xml/",
       "cate": "电影,1&&连续剧,2&&综艺,3&&动漫,4&&国产,13&&欧美剧,16&&港剧,14&&日剧,15&&记录片,20",
