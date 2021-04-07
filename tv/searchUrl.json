@@ -8,7 +8,30 @@
       "click": true,
       "wePlus": {}
     },
-
+    {
+      "id": 1,
+      "name": "AA影视",
+      "url": "http://aays.cc/api.php/provide/vod/at/xml/",
+      "cate": "电影,1&&连续剧,2&&综艺,3&&动漫,4&&国产,13&&欧美剧,16&&韩剧,34&&日剧,15&&动作片,6",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "7K资源",
+      "url": "https://zy.7kjx.com/cjapi.php",
+      "cate": "电影,1&&连续剧,2&&综艺,3&&动漫,4&&国产,13&&欧美剧,16&&日韩剧,15&&动作片,6",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "速影TV",
+      "url": "https://xn--128-zm3fr26s.xyz/inc/api.php",
+      "cate": "电影,1&&连续剧,2&&综艺,3&&动漫,4&&国产,12&&欧美剧,15&&韩剧,17&&港剧,18&&日剧,16&&福利片,22",
+      "click": true,
+      "wePlus": {}
+    },
     {
       "id": 1,
       "name": "1886资源",
