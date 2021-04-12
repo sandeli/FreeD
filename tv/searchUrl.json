@@ -26,9 +26,9 @@
     },
     {
       "id": 1,
-      "name": "AA影视",
-      "url": "http://aays.cc/api.php/provide/vod/at/xml/",
-      "cate": "电影,1&&连续剧,2&&综艺,3&&动漫,4&&国产,13&&欧美剧,16&&韩剧,34&&日剧,15&&动作片,6",
+      "name": "电影先生",
+      "url": "http://dianying.im/api.php/provide/vod/at/xml/",
+      "cate": "电影,1&&连续剧,2&&综艺,3&&动漫,4&&国产,13&&欧美剧,16&&韩剧,25&&日剧,15&&动作片,6",
       "click": true,
       "wePlus": {}
     },
