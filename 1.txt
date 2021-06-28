@@ -37,8 +37,6 @@ CCTV-7国防军事[1920*1080][1920*1080],http://223.110.243.147/ott.js.chinamobi
 
 CCTV-8电视剧[1920*1080][1920*1080],http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227629/index.m3u8
 
-#EXTINF:-1 ,木子森燚独家提供[1920*1080],127.0.0.1
-
 CCTV-9纪录[1920*1080][1920*1080],http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227614/index.m3u8
 
 CCTV-10科教[1920*1080][1920*1080],http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227620/index.m3u8
@@ -158,8 +156,6 @@ CCTV-17农业农村[1920*1080][1920*1080],http://223.110.245.151/ott.js.chinamob
 南方卫视[1047*576][1047*576],http://223.110.246.70/ott.js.chinamobile.com/PLTV/4/224/3221227005/index.m3u8
 
 蓝光地方,#genre#
-
-#EXTINF:-1 ,木子森燚独家提供[1920*1080],127.0.0.1
 
 浙江6套[1920*1080][1920*1080],http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=7902d458851930a3cab9763349e1425c&t=1577153702
 
