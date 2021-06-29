@@ -295,7 +295,7 @@ CHC家庭影院 8M1080[1920*1080][1920*1080],http://dbiptv.sn.chinamobile.com/PL
 
 CHC电影 8M1080[1920*1080][1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 
--=Uploaded by TEDiPTV ʕ•͡ᴥ•ʔ =-
+
 
 CCTV-1综合[1920*1080][1920*1080],http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 
