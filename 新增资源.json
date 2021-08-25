@@ -1,0 +1,110 @@
+[
+  {
+    "key": "r7oOp0",
+    "id": 20,
+    "name": "6U资源",
+    "api": "http://zy.ataoju.com/inc/api.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "新增资源",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "dgpDqC",
+    "id": 21,
+    "name": "605资源",
+    "api": "http://www.605zy.co/inc/api.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "新增资源",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "1sBnxn",
+    "id": 22,
+    "name": "天空资源",
+    "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "新增资源",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "GCZdmo",
+    "id": 23,
+    "name": "BT天堂",
+    "api": "http://bttcj.com/inc/sapi.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "新增资源",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "KKI41H",
+    "id": 24,
+    "name": "追剧吧",
+    "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "新增资源",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "oRxeeo",
+    "id": 25,
+    "name": "39影视",
+    "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "新增资源",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "IDkB7n",
+    "id": 26,
+    "name": "88影视综合",
+    "api": "http://www.88zy.live/inc/seacmsapi.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "新增资源",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "VE2Fhd",
+    "id": 27,
+    "name": "88资源",
+    "api": "http://www.88zy.live/inc/seaapi.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "新增资源",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "tTBJsA",
+    "id": 28,
+    "name": "快播资源",
+    "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbzy/at/xmlsea/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "新增资源",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "可用"
+  }
+]
