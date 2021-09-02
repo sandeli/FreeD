@@ -513,6 +513,10 @@
       "url": "https://vip.bljiex.com/?v="
     },
     {
+      "name": "33",
+      "url": "https://www.33tn.cn/?url="
+    },
+    {
       "name": "OK",
       "url": "https://okjx.cc/?url="
     },
