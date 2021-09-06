@@ -513,6 +513,10 @@
       "url": "https://vip.bljiex.com/?v="
     },
     {
+      "name": "新月亮",
+      "url": "https://vip.jianjians.com/?url="
+    },
+    {
       "name": "33",
       "url": "https://www.33tn.cn/?url="
     },
