@@ -1,4 +1,4 @@
-//221216
+//221217
 {"spider":"http://mao.xinlu.ml/JS/fm.jar",
  "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"http://mao.xinlu.ml/JS/lib/drpy2.min.js","ext":"http://mao.xinlu.ml/JS/js/drpy.js"},
@@ -21,6 +21,7 @@
 {"key":"drpy_js_fositv","name":"影视 | fositv[js]","type":3,"api":"http://mao.xinlu.ml/JS/lib/drpy2.min.js","ext":"http://mao.xinlu.ml/JS/js/fositv.js"},
 {"key":"drpy_js_影渣渣","name":"影视 | 影渣渣[js]","type":3,"api":"http://mao.xinlu.ml/JS/lib/drpy2.min.js","ext":"http://mao.xinlu.ml/JS/js/影渣渣.js"},
 {"key":"drpy_js_鸭奈飞","name":"影视 | 鸭奈飞[js]","type":3,"api":"http://mao.xinlu.ml/JS/lib/drpy2.min.js","ext":"http://mao.xinlu.ml/JS/js/鸭奈飞.js"},
+{"key":"drpy_js_美剧网","name":"影视 | 美剧网[js]","type":3,"api":"http://mao.xinlu.ml/JS/lib/drpy2.min.js","ext":"http://mao.xinlu.ml/JS/js/美剧网.js"},
 {"key":"drpy_js_NFM影视","name":"影视 | NFM影视[js]","type":3,"api":"http://mao.xinlu.ml/JS/lib/drpy2.min.js","ext":"http://mao.xinlu.ml/JS/js/NFM影视.js"},
 {"key":"drpy_js_LIBVIO","name":"影视 | LIBVIO[js]","type":3,"api":"http://mao.xinlu.ml/JS/lib/drpy2.min.js","ext":"http://mao.xinlu.ml/JS/js/LIBVIO.js"},
 {"key":"drpy_js_HDmoli","name":"影视 | HDmoli[js]","type":3,"api":"http://mao.xinlu.ml/JS/lib/drpy2.min.js","ext":"http://mao.xinlu.ml/JS/js/HDmoli.js"},
@@ -57,6 +58,7 @@
 {"key":"drpy_js_兔小贝","name":"动漫 | 兔小贝[js]","type":3,"api":"http://mao.xinlu.ml/JS/lib/drpy2.min.js","ext":"http://mao.xinlu.ml/JS/js/兔小贝.js"},
 {"key":"drpy_js_AnFuns","name":"动漫 | AnFuns[js]","type":3,"api":"http://mao.xinlu.ml/JS/lib/drpy2.min.js","ext":"http://mao.xinlu.ml/JS/js/AnFuns.js"},
 {"key":"drpy_js_AGE动漫","name":"动漫 | AGE动漫[js]","type":3,"api":"http://mao.xinlu.ml/JS/lib/drpy2.min.js","ext":"http://mao.xinlu.ml/JS/js/AGE动漫.js"},
+{"key":"drpy_js_动漫岛","name":"动漫 | 动漫岛[js]","type":3,"api":"http://mao.xinlu.ml/JS/lib/drpy2.min.js","ext":"http://mao.xinlu.ml/JS/js/动漫岛.js"},
 {"key":"drpy_js_异世界动漫","name":"动漫 | 异世界动漫[js]","type":3,"api":"http://mao.xinlu.ml/JS/lib/drpy2.min.js","ext":"http://mao.xinlu.ml/JS/js/异世界动漫.js"},
 {"key":"drpy_js_007影视","name":"影视 | 007影视[js]","type":3,"api":"http://mao.xinlu.ml/JS/lib/drpy2.min.js","ext":"http://mao.xinlu.ml/JS/js/007影视.js"},
 {"key":"drpy_js_1080P","name":"影视 | 1080P[js]","type":3,"api":"http://mao.xinlu.ml/JS/lib/drpy2.min.js","ext":"http://mao.xinlu.ml/JS/js/1080P.js"},
