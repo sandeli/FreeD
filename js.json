@@ -1,4 +1,4 @@
-//221217
+//221219
 {"spider":"http://mao.xinlu.ml/JS/fm.jar",
  "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"http://mao.xinlu.ml/JS/lib/drpy2.min.js","ext":"http://mao.xinlu.ml/JS/js/drpy.js"},
