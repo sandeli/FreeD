@@ -158,7 +158,7 @@
 {"key":"drpy_js_追剧啦儿","name":"影视 | 追剧啦儿[js]","type":3,"api":"http://mao.xinlu.ml/JS/lib/drpy2.min.js","ext":"http://mao.xinlu.ml/JS/js/追剧啦.js"},
 {"key":"drpy_js_子子影视","name":"影视 | 子子影视[js]","type":3,"api":"http://mao.xinlu.ml/JS/lib/drpy2.min.js","ext":"http://mao.xinlu.ml/JS/js/子子影视.js"},
 {"key": "push_agent","name": "阿里 | 推送","type": 3,"api": "csp_Push","ext": "http://mao.xinlu.ml/JS/lib/token.txt"}],
-"lives":[{"name":"太阳","type":0,"url":"http://111.67.196.181/mtv/zhibo.txt"}],
+"lives":[{"name":"太阳","type":0,"url":"http://mao.xinlu.ml/live.txt"}],
 "rules":[
 {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},{"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
 {"host":"www.sharenice.net","rule":["sovv.qianpailive.com","vid="],"filter":[]},
