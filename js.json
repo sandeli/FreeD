@@ -1,9 +1,9 @@
-//230107
+//230108
 {"spider":"http://mao.xinlu.ml/JS/fm.jar",
  "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"http://mao.xinlu.ml/JS/lib/drpy2.min.js","ext":"http://mao.xinlu.ml/JS/js/drpy.js"},
 {"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","ext":"http://mao.xinlu.ml/JS/js/音乐演唱.json"},
-//{"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"http://mao.xinlu.ml/JS/lib/drpy2.min.js","ext":"http://mao.xinlu.ml/JS/js/我的哔哩.js"},
+{"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"http://mao.xinlu.ml/JS/lib/drpy2.min.js","ext":"http://mao.xinlu.ml/JS/js/我的哔哩.js"},
 {"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"http://mao.xinlu.ml/JS/js/alistjar.json"},
 {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"http://mao.xinlu.ml/JS/lib/alist.min.js","ext":"http://mao.xinlu.ml/JS/js/alist.json"},
 {"key":"纸条","name":"阿里 | 纸条","type":3,"api":"csp_Paper","ext":"http://mao.xinlu.ml/JS/lib/token.txt"},
