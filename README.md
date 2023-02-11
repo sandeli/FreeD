@@ -1,37 +1,29 @@
-# Freed1
+项目
 
-#### 介绍
-FREED
+📺 Freed - 一个记录TVBOX源的Github项目
+Freed 是一个记录TVBOX源的Github项目，旨在为TVBOX用户提供更新的源信息。
 
-#### 软件架构
-软件架构说明
+💻 功能特性
+收集TVBOX可用源，如：
 
+提供稳定的源
+提供稳定的更新
+提供新的源
+根据品牌、型号分类，方便查找
 
-#### 安装教程
+定期更新，为TVBOX提供最新的源信息
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+🎨 技术栈
+Freed 使用了以下技术实现功能：
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+HTML
+CSS
+JavaScript
+GitHub API
+📝 如何使用
+在项目主页中 Freed 选择你想要的TVBOX源
+根据品牌、型号查找源信息
+使用提供的源信息更新TVBOX
+🔗 相关链接
+GitHub
+TVBOX源
