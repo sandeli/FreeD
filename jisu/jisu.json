@@ -1,6 +1,6 @@
-//230219
-{
-   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/sandeli/FreeD/master/jisu/01.jar;md5;7bea178b8e16a8a6e89b8cdb88e39cd4", 
+//230226
+ {
+   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/sandeli/FreeD/master/jisu/01.jar;md5;4ba0df8cb001514817da4e4337df96fc", 
    "lives": [{"group": "redirect","channels": [{
 "name": "live",
 "urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]
@@ -14,7 +14,7 @@
 { "key": "csp_BuLei", "name": "布雷", "type": 3, "api": "csp_BuLei", "searchable": 1, "quickSearch": 1, "filterable": 1,  "m3u8ads": "wan.51img1.com"},
 {"key": "NoSearch_Bdys_spider","name": "哔滴影视","api": "csp_Bdys01","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
 {"key":"csp_Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_BBB","name":"套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/1343008858/TVBox/raw/branch/master/bili/bili.txt"},
+{"key":"csp_BBB","name":"套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/1343008858/TVBox/raw/branch/master/tv/bili.txt"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"}
 ],
 "parses": [
@@ -24,10 +24,11 @@
 {"name": "GGTV自用","type": 1,"url": "https://play.fuqizhishi.com/xiaobai/API.php?appkey=ganggang&url="},
 {"name": "星辰","type": 1, "url": "https://json.xn--9kq078cdn3a.cc/api/?key=11bd9d445313ce45aeeabe9050ea9918&url="},
 {"name": "云you","type": 1,"url": "https://chaloli.cn/api/?key=fee5845e4b9924e72cf2158cc20b2dfa&url="},
+{"name":"无名","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"呦呦","type":1,"url":"https://jxm.qcheng.cc/?url="},
 {"name":"舒渡","type":0,"url":"http://vip.lovctv.com/VIP/?url="},
-{"name": "OKjx综合","type": 1,"url": "https://okjx.cc/?url="},
-{"name":"爱酷","type":1,"url":"http://www.ikukk.com/?ac=1&url="}
+{"name": "OKjx综合","type": 0,"url": "https://okjx.cc/?url="},
+{"name":"爱酷","type":0,"url":"http://www.ikukk.com/?ac=1&url="}
 ],
 	
 "flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
