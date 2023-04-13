@@ -6,7 +6,7 @@
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
-{"key":"csp_77","name":"👒酷云七七┃230413本接口免费🈲","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_77","name":"👒酷云七七┃更新日期230413🈲","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_豆瓣","name":"🔍豆瓣","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/sandeli/FreeD/master/XC/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sandeli/FreeD/master/XC/js/豆瓣.js"},
 {"key":"直播","name":"💻电视直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/sandeli/FreeD/master/XC/js/lib/直播转点播.js","ext":"南风$https://ghproxy.com/https://raw.githubusercontent.com/sandeli/FreeD/master/XC/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
